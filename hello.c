@@ -1,6 +1,10 @@
 #include <stdio.h>
 int main()
 {
-  printf ("Hello world\n");
+
+  //Print the required text to the terminal
+  printf ("Hello world, I am Berkay Kaplan\n");
+
+  //Eplicitly return 0 to end the main
   return 0;
   }
